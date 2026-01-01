@@ -3,7 +3,7 @@
 A web-based interactive whiteboard that allows users to draw, annotate, and visualize ideas in real time using a smooth and intuitive canvas-based interface.
 
  **Live Demo:**  https://whiteboard-tutorial-eight.vercel.app/
- **Repository:** https://github.com/your-username/your-repo-name  
+ **Repository:** https://github.com/Isha-Tated/whiteboard-app
 
 ---
 
